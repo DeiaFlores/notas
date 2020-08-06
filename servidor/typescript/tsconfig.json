@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"strict": true,
+		"alwaysStrict": true,
+		"noImplicitAny": true,
+		"noImplicitThis": true,
+		"removeComments": true,
+		"sourceMap": false,
+		"outDir": "output"
+	},
+	"include": ["**/*"]
+}
